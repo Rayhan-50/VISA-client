@@ -1,6 +1,13 @@
 # VISA NAVIGATOR
 
-[![Live Site](https://assignment-10-427ea.web.app/)](https://assignment-10-427ea.web.app/)
+
+
+[https://assignment-10-427ea.web.app/](https://assignment-10-427ea.web.app/)
+
+## Repository Links
+
+* **Client-Side:** [https://github.com/Rayhan-50/VISA-client](https://github.com/Rayhan-50/VISA-client)
+* **Server-Side:** [https://github.com/Rayhan-50/VISA-server](https://github.com/Rayhan-50/VISA-server)
 
 ## Project Overview
 
